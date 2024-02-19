@@ -2,8 +2,9 @@
 
 int main()
 {
-    std::cout<<"hello"<<std::endl;
-    std::cout<<"Mani"<<std::endl;
+    
+    std::cout<<"name: mani"<<std::endl;
+    std::cout<<"location: hyd"<<std::endl;
       
     return 0;
 }
