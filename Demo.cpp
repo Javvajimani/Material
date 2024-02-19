@@ -2,8 +2,8 @@
 
 int main()
 {
-    std::cout<<"hello"<<std::endl;
-    std::cout<<"Mani"<<std::endl;
+    std::cout<<"Hello Hyd"<<std::endl;
+    std::cout<<"Namaste"<<std::endl;
       
     return 0;
 }
