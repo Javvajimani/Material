@@ -7,6 +7,8 @@ int main()
     
     std::cout<<"name: mani"<<std::endl;
     std::cout<<"location: hyd"<<std::endl;
+    std::cout<<"location: bangalore"<<std::endl;
+
       
     return 0;
 }
